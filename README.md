@@ -11,15 +11,14 @@ Each project is a self-contained example focused on clean architecture, maintain
 
 ---
 
-## 🚀 Featured Tutorial — Interactive 3D Globe with Next.js
+# 🧭 Tutorial Series
 
-The first project in this series introduces an **Interactive 3D Globe Visualization**, a cutting-edge web application demonstrating:
+## 📚 Tutorials
 
-- **3D Data Visualization** with Three.js and React Globe GL
-- **Smart Geographic Clustering** for handling large datasets
-- **Modern React Patterns** with TypeScript and Next.js 14+
-- **Performance Optimization** for complex 3D scenes
-- **Responsive Design** with smooth animations and interactions
+### [01 - Interactive 3D Globe with Next.js](./01-interactive-3d-globe/)
+A modern 3D globe visualization with geographic data clustering, particle effects, and smooth animations.
+
+**Tech Stack:** Next.js, Three.js, TypeScript, React Globe GL
 
 ---
 
