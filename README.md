@@ -80,4 +80,7 @@ Contributions are welcome! You can:
 
 ---
 
-© 2025 [Your Name]. Released under the [MIT License](LICENSE).
+[Follow me on Medium](https://medium.com/@banjolakunri)
+
+© 2025 [Olabanjo Olakunori]. Released under the [MIT License](LICENSE).
+
