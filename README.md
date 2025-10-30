@@ -20,6 +20,8 @@ A modern 3D globe visualization with geographic data clustering, particle effect
 
 **Tech Stack:** Next.js, Three.js, TypeScript, React Globe GL
 
+### Coming Soon...
+
 ---
 
 ## 📁 Repository Structure
